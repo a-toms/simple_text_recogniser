@@ -17,4 +17,4 @@ a) `pip install -r requirements.txt`
 1. `python3 main.py path_to_image_file_with_text.png`
 
 
-![](../../Downloads/2021-09-05 17.43.38.gif)
+![](./example.gif)
