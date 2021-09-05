@@ -1,6 +1,6 @@
 # Simple text recogniser
 
-Recognise text in png images.
+Simply recognise text in png images using Python.
 
 ## Install
 0. Clone the repo and enter it.
@@ -17,10 +17,4 @@ a) `pip install -r requirements.txt`
 1. `python3 main.py path_to_image_file_with_text.png`
 
 
-
-
-
-
-
-
-
+![](../../Downloads/2021-09-05 17.43.38.gif)
